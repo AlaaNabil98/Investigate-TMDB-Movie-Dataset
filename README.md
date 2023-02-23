@@ -3,7 +3,8 @@ The primary goal of the project is to go through the dataset and the general dat
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
 ## Project Overview
-In this project, I will analyze the TMDb movie dataset and then communicate my findings about it, this data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings, revenue, budget, director, release date, runtime and more patterns, I will use the Python libraries NumPy, pandas, Matplotlib and Seaborn to make my analysis easier.
+In this project, I analyzed the TMDb movies dataset and then communicated my findings about it, this data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings, revenue, budget, director, release date, runtime, and more patterns.
+I used the Python libraries NumPy, Pandas, Matplotlib, and Seaborn to make my analysis easier.
 
 ## What do you need to install?
 You will need an installation of Python, plus the following libraries:
